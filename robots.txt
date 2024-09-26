@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uxukuav.github.io/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/app/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/assets/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/css/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/data/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/includes/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/item/sitemap.uxukuav.gz
+Sitemap: https://uxukuav.github.io/src/sitemap.uxukuav.gz
